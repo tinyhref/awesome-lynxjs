@@ -1,0 +1,21 @@
+{
+  "name": "awesome-lynxjs",
+  "version": "0.0.0",
+  "description": "Awesome list LynxJS ecosystem from 500link.com",
+  "keywords": [
+    "awesome-lynxjs",
+    "awesome",
+    "lists",
+    "500link",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "500link.com",
+    "website": "https://500link.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/awesome-lynxjs"
+  }
+}
