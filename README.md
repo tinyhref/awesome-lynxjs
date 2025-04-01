@@ -13,4 +13,4 @@
 <div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://500link.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
 <h3>Lynx Stories</h3>
 
-<div><img width="16" alt="Lynx Roadmap 2025"/> <a target="_blank" href="https://500link.com/P4jQVESiS">Lynx Roadmap 2025</a> - .</div>
+<div><a target="_blank" href="https://500link.com/P4jQVESiS">Lynx Roadmap 2025</a></div>
