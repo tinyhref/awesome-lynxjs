@@ -9,6 +9,7 @@
 
 <h3>Lynx Family</h3>
 
+<div><img width="16" src="https://i.imgur.com/GODNOe1.png" alt="Lynx Devtool"/> <a target="_blank" href="https://500link.com/lynx-devtool">Lynx Devtool</a> - Debug Lynx On-the-Fly.</div>
 <div><img width="16" src="https://i.imgur.com/ZMw21gh.png" alt="Lynx"/> <a target="_blank" href="https://500link.com/lynxjs">Lynx</a> - Empower the web community and invite more to build cross-platform apps.</div>
 <div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://500link.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
 <h3>Lynx Stories</h3>
