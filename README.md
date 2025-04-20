@@ -16,7 +16,7 @@
 <h3>Lynx Examples</h3>
 
 <div><a target="_blank" href="https://500link.com/PeELXq5eU">Lynx Examples</a> - Comprehensive Lynx Examples.</div>
-<div><a target="_blank" href="https://500link.com/GPr5y0aRz">Lynx Game Search</a></div>
+<div><a target="_blank" href="https://500link.com/GPr5y0aRz">Lynx Game Search</a> - Built with Lynx by ByteDance, is a comprehensive app designed to provide users with detailed information about various video games.</div>
 <h3>Lynx Stories</h3>
 
 <div><a target="_blank" href="https://500link.com/nRxFgKjmV">Lynx: Unlock Native for More</a></div>
