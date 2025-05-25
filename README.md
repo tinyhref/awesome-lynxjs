@@ -23,3 +23,4 @@
 <div><a target="_blank" href="https://500link.com/0ZURiBFsv">What is Lynx? Flutter vs Lynx vs React Native</a></div>
 <div><a target="_blank" href="https://500link.com/QabuOOt20">Vue + Lynx = Vue Native? Evan You Drops a Bombshell at Vue Amsterdam Conf!</a></div>
 <div><a target="_blank" href="https://500link.com/P4jQVESiS">Lynx Roadmap 2025</a></div>
+<div><a target="_blank" href="https://500link.com/NU9dhd848">What’s new in Lynx 3.2</a></div>
